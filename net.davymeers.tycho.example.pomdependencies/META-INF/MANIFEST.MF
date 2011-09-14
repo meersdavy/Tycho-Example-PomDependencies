@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Pomdependencies
+Bundle-SymbolicName: net.davymeers.tycho.example.pomdependencies
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: org.postgresql;version="[8.0.0,9.0.0)"
